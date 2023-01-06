@@ -14,7 +14,8 @@ class Hello{
 			 System.out.println("Will Decide wether its working or not");
 		}
 		{
-             System.out.printlin("Automaitc Build is not happening ");
+             System.out.println("Automaitc Build is not happening ");
+		}	 
         			
 		
 	}
